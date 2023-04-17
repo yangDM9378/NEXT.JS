@@ -6,3 +6,5 @@
 - commit#3 - routing 실습
 ### 동적 라우팅
 - commit#4 - Dynamic Routing
+- commit#5 - Dynamic Routing 내용 추가
+- commit#6 - Not Found
