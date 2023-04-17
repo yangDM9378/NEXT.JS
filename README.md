@@ -4,3 +4,5 @@
 - commit#1 - 12버전 routing
 - commit#2 - 13버전 routing
 - commit#3 - routing 실습
+### 동적 라우팅
+- commit#4 - Dynamic Routing
