@@ -1,6 +1,9 @@
 import { getProduct, getProducts } from "@/service/products";
 import { notFound } from "next/navigation";
 
+// 10초마다 데이터 받게
+export const revalidate = 10;
+
 type Props = {
   params: {
     slug: string;
