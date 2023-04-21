@@ -22,3 +22,4 @@
 - commit#15 - v13 ISR로 렌더링
 - commit#16 - v13 fetch 활용 SSG, ISR로 렌더링
 - commit#17 - v13 fetch 활용 CSR로 렌더링
+- commit#18 - v12 SSG ISR SSR
