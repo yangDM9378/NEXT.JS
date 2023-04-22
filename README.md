@@ -32,3 +32,4 @@
 - commit#23 - Image
 - commit#24 - Image 실습
 - commit#25 - fonts
+- commit#26 - redirect
