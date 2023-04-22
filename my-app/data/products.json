@@ -9,13 +9,13 @@
         "id": "1235",
         "name":"티셔츠",
         "price":2222,
-        "images":"tshirt.jpg"
+        "image":"tshirt.jpg"
     },    
     {
         "id": "1236",
         "name":"부츠",
         "price":3333,
-        "images":"shoes.jpg"
+        "image":"shoes.jpg"
 
     }
 ]
