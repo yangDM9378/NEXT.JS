@@ -1,10 +1,7 @@
 import Counter from "@/components/Counter";
-import { Inter } from "next/font/google";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import os from "os"; // 노드 APIs
-
-const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   // notFound();

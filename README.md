@@ -31,3 +31,4 @@
 - commit#22 - error
 - commit#23 - Image
 - commit#24 - Image 실습
+- commit#25 - fonts
