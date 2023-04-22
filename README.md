@@ -30,3 +30,4 @@
 - commit#21 - Loading
 - commit#22 - error
 - commit#23 - Image
+- commit#24 - Image 실습
