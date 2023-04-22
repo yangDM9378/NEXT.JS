@@ -26,3 +26,5 @@
 ### API 라우트
 - commit#19 - 예전방식 API 라우트
 - commit#20 - 최신방식 API 라우트
+### 성능개선
+- commit#21 - Loading
