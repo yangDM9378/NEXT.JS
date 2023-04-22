@@ -25,3 +25,4 @@
 - commit#18 - v12 SSG ISR SSR
 ### API 라우트
 - commit#19 - 예전방식 API 라우트
+- commit#20 - 최신방식 API 라우트
