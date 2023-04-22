@@ -28,3 +28,4 @@
 - commit#20 - 최신방식 API 라우트
 ### 성능개선
 - commit#21 - Loading
+- commit#22 - error
