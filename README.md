@@ -35,3 +35,4 @@
 - commit#26 - redirect
 - commit#27 - rewrites
 - commit#28 - 동적 사용자 redirect
+- commit#29 - middleware
