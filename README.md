@@ -36,3 +36,6 @@
 - commit#27 - rewrites
 - commit#28 - 동적 사용자 redirect
 - commit#29 - middleware
+
+### 인스타그램
+- #1 환경설정 및 Sanity 설정
