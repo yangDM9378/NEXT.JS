@@ -10,10 +10,12 @@ import NewFillIcon from "./ui/icons/NewFillIcon";
 import { usePathname } from "next/navigation";
 import ColorButton from "./ui/ColorButton";
 import { useSession, signIn, signOut } from "next-auth/react";
+import Avatar from "./ui/Avatar";
 
 const Navbar = () => {
   const { data: session } = useSession();
   const pathName = usePathname();
+  const user = session?.user;
   const menu = [
     {
       href: "/",
@@ -45,6 +47,13 @@ const Navbar = () => {
               </Link>
             </li>
           ))}
+          {user && (
+            <li>
+              <Link href={`/user/${user.username}`}>
+                <Avatar image={user.image} />
+              </Link>
+            </li>
+          )}
           {session ? (
             <ColorButton text="Sign out" onClick={() => signOut()} />
           ) : (
